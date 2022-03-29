@@ -2,4 +2,4 @@
 * text=auto
 * linguist-vendored
 *.dart linguist-vendored=true
-*.c++ linguist-vendored=false
+*.C++ linguist-vendored=false
